@@ -26,7 +26,7 @@
     },
     "linuxFxVersion": {
       "type": "string",
-      "defaultValue": "JAVA|11",
+      "defaultValue": "JAVA|11|TOMCAT|9.0",
       "metadata": {
         "description": "The Runtime stack of current web app"
       }
